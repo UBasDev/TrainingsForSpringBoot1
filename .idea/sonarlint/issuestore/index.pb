@@ -27,8 +27,6 @@ S
 #test2/src/main/resources/banner.txt,9\2\929786f11471f50a1b775e78099616a4c5795f5a
 n
 >test2/src/main/java/org/group1/dto/CreateSingleProductDto.java,d\8\d8befff84bd51a8b4e9b9832245006ab85a00dcd
-h
-8test1/src/main/java/org/group1/services/UserService.java,3\f\3fc59773bcbd35e75327e801b64438bfa97015b3
 n
 >test1/src/main/java/org/group1/controllers/UserController.java,9\c\9c8419ecd8fd96bc66bfb293db786c4d252045a6
 r
